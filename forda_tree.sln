@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "forda_tree", "forda_tree.vbproj", "{76A93067-261B-4F07-B430-9CED79910AFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76A93067-261B-4F07-B430-9CED79910AFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76A93067-261B-4F07-B430-9CED79910AFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76A93067-261B-4F07-B430-9CED79910AFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76A93067-261B-4F07-B430-9CED79910AFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1505B2FB-0029-4B25-BE1B-7FDAF6D0B4A4}
+	EndGlobalSection
+EndGlobal

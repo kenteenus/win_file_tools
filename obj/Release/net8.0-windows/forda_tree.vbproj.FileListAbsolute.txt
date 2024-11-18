@@ -1,0 +1,16 @@
+C:\Users\owner\source\repos\forda_tree\bin\Release\net8.0-windows\forda_tree.exe
+C:\Users\owner\source\repos\forda_tree\bin\Release\net8.0-windows\forda_tree.deps.json
+C:\Users\owner\source\repos\forda_tree\bin\Release\net8.0-windows\forda_tree.runtimeconfig.json
+C:\Users\owner\source\repos\forda_tree\bin\Release\net8.0-windows\forda_tree.dll
+C:\Users\owner\source\repos\forda_tree\bin\Release\net8.0-windows\forda_tree.pdb
+C:\Users\owner\source\repos\forda_tree\obj\Release\net8.0-windows\forda_tree.Form1.resources
+C:\Users\owner\source\repos\forda_tree\obj\Release\net8.0-windows\forda_tree.vbproj.GenerateResource.cache
+C:\Users\owner\source\repos\forda_tree\obj\Release\net8.0-windows\forda_tree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\owner\source\repos\forda_tree\obj\Release\net8.0-windows\forda_tree.AssemblyInfoInputs.cache
+C:\Users\owner\source\repos\forda_tree\obj\Release\net8.0-windows\forda_tree.AssemblyInfo.vb
+C:\Users\owner\source\repos\forda_tree\obj\Release\net8.0-windows\forda_tree.vbproj.CoreCompileInputs.cache
+C:\Users\owner\source\repos\forda_tree\obj\Release\net8.0-windows\forda_tree.dll
+C:\Users\owner\source\repos\forda_tree\obj\Release\net8.0-windows\refint\forda_tree.dll
+C:\Users\owner\source\repos\forda_tree\obj\Release\net8.0-windows\forda_tree.pdb
+C:\Users\owner\source\repos\forda_tree\obj\Release\net8.0-windows\forda_tree.genruntimeconfig.cache
+C:\Users\owner\source\repos\forda_tree\obj\Release\net8.0-windows\ref\forda_tree.dll
